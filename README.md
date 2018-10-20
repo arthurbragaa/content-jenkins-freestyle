@@ -1,2 +1,2 @@
 # content-jenkins-freestyle
-trigger
+trigger2
